@@ -1,0 +1,22 @@
+{
+  "name": "gasvalid",
+  "version": "1.0.0",
+  "description": "Aplicacion gasvalid\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[ó\u001b[C\u001b[C\u001b[F\u001b[C\u001b[C\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b para Division Metrologica, S.A. de C.V.",
+  "main": "index.js",
+  "scripts": {
+    "dev":"electron src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/RaulArmasSantiago/GasValid.git"
+  },
+  "keywords": [
+    "GasValid"
+  ],
+  "author": "Raul Armas Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.4"
+  }
+}
